@@ -1,5 +1,6 @@
 def addition(a, b):
-    return sum(a, b)
+    sum_ = a+b
+    return sum_
 
 
 def subtraction(a, b):
